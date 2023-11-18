@@ -1,0 +1,27 @@
+apply plugin: 'com.android.application'
+
+android {
+	namespace 'ac.robinson.bettertogether.plugin.video'
+	compileSdkVersion 32
+
+	defaultConfig {
+		applicationId namespace
+		minSdkVersion 14
+		targetSdkVersion 32
+		versionCode appVersionCode
+		versionName appAndAPIVersionName // app version tracks API version
+		resConfigs 'en'
+	}
+
+	buildTypes {
+		release {
+			minifyEnabled true
+			shrinkResources true
+			proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+		}
+	}
+}
+
+dependencies {
+	implementation project(path: ':plugin-video-base')
+}

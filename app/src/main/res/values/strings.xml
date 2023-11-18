@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (C) 2017 The Better Together Toolkit
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~       http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express
+  ~ or implied. See the License for the specific language governing
+  ~ permissions and limitations under the License.
+  -->
+
+<resources>
+	<string name="app_name">Better Together</string>
+	<string name="app_name_short">BT</string>
+
+	<string name="button_done">Done</string>
+	<string name="button_cancel">Cancel</string>
+	<string name="button_exit">Exit</string>
+	<string name="button_play_store">Open Google Play</string>
+
+	<string name="join_hotspot">Scan a code, or choose an app</string>
+	<string name="host_hotspot">Scan this code to join in</string>
+	<string name="show_add_device">Show the code to let another person join in</string>
+	<string name="error_no_plugin_specified">Error: no plugin specified – please try again</string>
+	<string name="error_plugin_launch_failed">Error: unable to launch plugin – please try again</string>
+	<string name="error_play_store_launch_failed">Error: unable to launch Google Play</string>
+
+	<string name="change_plugin_closed">Change app ▲</string>
+	<string name="change_plugin_open">Change app ▼</string>
+	<string name="get_plugins">Get more…</string>
+
+	<string name="title_plugin_not_found">App not found</string>
+	<string name="message_plugin_not_found">The app you requested could not be found.\n\nWould you like to open Google Play to install it?</string>
+	<string name="hint_error_launching_plugin">Error: unable to launch app</string>
+	<string name="hint_error_launching_play_store">Error: unable to launch the Play Store</string>
+
+	<string name="connecting_hotspot">Connecting…</string>
+
+	<string name="title_confirm_exit">Confirm exit</string>
+	<string name="hint_confirm_exit">Are you sure you want to exit?\n\nAll other devices will be disconnected if you continue</string>
+
+	<string name="title_settings_access">Settings access</string>
+	<string name="hint_enable_settings_access">Please allow Better Together to edit settings.\n\nThis access allows Better Together to connect to other Better Together apps</string>
+	<string name="hint_edit_settings_access">Edit settings access</string>
+	<string name="error_editing_settings">Unable to set up connection - please make sure you grant Better Together permission to edit settings</string>
+
+	<string name="title_camera_access">Camera access</string>
+	<string name="hint_enable_camera_access">Please allow Better Together to use your camera.\n\nThe camera allows Better Together to scan codes to connect to other devices near to you</string>
+	<string name="error_accessing_camera">Unable to start scanning - please make sure you give Better Together permission to access your camera</string>
+
+	<string name="title_coarse_location_access">Location access</string>
+	<string name="hint_enable_coarse_location_access">Please allow Better Together to access your location.\n\nThis access allows Better Together to find other devices near to you and connect to other Better Together apps</string>
+	<string name="error_accessing_location">Unable to set up connection - please make sure you give Better Together permission to access your location</string>
+
+	<string name="title_bluetooth_location_camera_access">Required permissions</string>
+	<string name="hint_enable_bluetooth_location_camera_access">Please allow Better Together to access Bluetooth, location and camera.\n\nThis access allows Better Together to find other devices near to you and connect to other Better Together apps</string>
+	<string name="error_accessing_bluetooth_location_camera">Unable to set up connection - please make sure you give Better Together permission to access Bluetooth, location and camera</string>
+
+	<string name="hint_ask_again_permissions">Ask me again</string>
+	<string name="hint_edit_permissions">Edit permissions</string>
+</resources>

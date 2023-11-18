@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/better-together-master.iml" filepath="$PROJECT_DIR$/.idea/modules/better-together-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/better-together-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/better-together-master.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/better-together-master.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/better-together-master.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/better-together-master.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/better-together-master.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/better-together-master.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/better-together-master.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plugin-shopping/better-together-master.plugin-shopping.iml" filepath="$PROJECT_DIR$/.idea/modules/plugin-shopping/better-together-master.plugin-shopping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plugin-shopping-base/better-together-master.plugin-shopping-base.iml" filepath="$PROJECT_DIR$/.idea/modules/plugin-shopping-base/better-together-master.plugin-shopping-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plugin-shopping-base/better-together-master.plugin-shopping-base.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/plugin-shopping-base/better-together-master.plugin-shopping-base.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plugin-shopping-base/better-together-master.plugin-shopping-base.main.iml" filepath="$PROJECT_DIR$/.idea/modules/plugin-shopping-base/better-together-master.plugin-shopping-base.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plugin-shopping-base/better-together-master.plugin-shopping-base.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/plugin-shopping-base/better-together-master.plugin-shopping-base.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plugin-shopping/better-together-master.plugin-shopping.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/plugin-shopping/better-together-master.plugin-shopping.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plugin-shopping/better-together-master.plugin-shopping.main.iml" filepath="$PROJECT_DIR$/.idea/modules/plugin-shopping/better-together-master.plugin-shopping.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plugin-shopping/better-together-master.plugin-shopping.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/plugin-shopping/better-together-master.plugin-shopping.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plugin-video/better-together-master.plugin-video.iml" filepath="$PROJECT_DIR$/.idea/modules/plugin-video/better-together-master.plugin-video.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plugin-video-base/better-together-master.plugin-video-base.iml" filepath="$PROJECT_DIR$/.idea/modules/plugin-video-base/better-together-master.plugin-video-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plugin-video-base/better-together-master.plugin-video-base.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/plugin-video-base/better-together-master.plugin-video-base.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plugin-video-base/better-together-master.plugin-video-base.main.iml" filepath="$PROJECT_DIR$/.idea/modules/plugin-video-base/better-together-master.plugin-video-base.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plugin-video-base/better-together-master.plugin-video-base.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/plugin-video-base/better-together-master.plugin-video-base.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plugin-video/better-together-master.plugin-video.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/plugin-video/better-together-master.plugin-video.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plugin-video/better-together-master.plugin-video.main.iml" filepath="$PROJECT_DIR$/.idea/modules/plugin-video/better-together-master.plugin-video.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plugin-video/better-together-master.plugin-video.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/plugin-video/better-together-master.plugin-video.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pong/better-together-master.pong.iml" filepath="$PROJECT_DIR$/.idea/modules/pong/better-together-master.pong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pong/better-together-master.pong.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/pong/better-together-master.pong.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pong/better-together-master.pong.main.iml" filepath="$PROJECT_DIR$/.idea/modules/pong/better-together-master.pong.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pong/better-together-master.pong.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/pong/better-together-master.pong.unitTest.iml" />
+    </modules>
+  </component>
+</project>

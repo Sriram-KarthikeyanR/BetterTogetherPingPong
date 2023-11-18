@@ -1,0 +1,6 @@
+include ':app', ':plugin-video-base', ':plugin-video', ':plugin-shopping-base', ':plugin-shopping'
+
+// uncomment to import the Better Together API locally (if jcenter is unavailable and migration has not yet been actioned)
+// include 'better-together-api:api'
+// project(':better-together-api:api').projectDir = new File(settingsDir, '../better-together-api/api')
+include ':pong'
